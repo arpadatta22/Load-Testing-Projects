@@ -1,0 +1,147 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1660249491576,5665,https://www.banglapuzzle.com/career,200,OK,Thread Group 1-1,text,true,,1126212,17506,1,1,https://www.banglapuzzle.com/career,2215,0,1396
+1660249491576,2223,https://www.banglapuzzle.com/career-0,200,OK,Thread Group 1-1,text,true,,24640,353,1,1,https://www.banglapuzzle.com/career,2215,0,1396
+1660249493878,979,https://www.banglapuzzle.com/career-1,200,OK,Thread Group 1-1,bin,true,,1274,1080,1,1,https://www.banglapuzzle.com/uploads/settings/favicon.png,979,0,638
+1660249493879,1918,https://www.banglapuzzle.com/career-2,200,OK,Thread Group 1-1,text,true,,156196,1089,1,1,https://www.banglapuzzle.com/frontend/assets/css/bootstrap.min.css,1286,0,658
+1660249493879,1529,https://www.banglapuzzle.com/career-3,200,OK,Thread Group 1-1,text,true,,31350,1092,1,1,https://www.banglapuzzle.com/frontend/assets/css/font-awesome.min.css,1286,0,672
+1660249493878,986,https://www.banglapuzzle.com/career-4,200,OK,Thread Group 1-1,text,true,,3700,1092,1,1,https://www.banglapuzzle.com/frontend/assets/css/owl.carousel.min.css,986,0,654
+1660249493878,249,https://www.banglapuzzle.com/career-5,200,OK,Thread Group 1-1,text,true,,1362,1097,1,1,https://www.banglapuzzle.com/frontend/assets/css/owl.theme.default.min.css,249,0,0
+1660249493878,379,https://www.banglapuzzle.com/career-6,200,OK,Thread Group 1-1,text,true,,15541,446,1,1,https://fonts.googleapis.com/css2?family=Barlow:wght@100;300;400;600;700;800&family=Nunito:wght@200;300;400;700;800&display=swap,362,0,270
+1660249494309,1588,https://www.banglapuzzle.com/career-7,200,OK,Thread Group 1-1,text,true,,271140,2562,1,1,https://www.banglapuzzle.com/frontend/assets/css/style.css,367,0,0
+1660249494309,939,https://www.banglapuzzle.com/career-0,200,OK,,text,true,,82676,1081,0,0,https://www.banglapuzzle.com/frontend/assets/css/style.css,367,0,0
+1660249495361,536,https://www.banglapuzzle.com/career-1,200,OK,ResDownload-Thread-9,text,true,,157114,389,0,0,https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css,242,0,147
+1660249495361,318,https://www.banglapuzzle.com/career-2,200,OK,ResDownload-Thread-9,text,true,,31350,1092,0,0,https://www.banglapuzzle.com/frontend/assets/css/font-awesome.min.css,312,0,0
+1660249494309,1230,https://www.banglapuzzle.com/career-8,200,OK,Thread Group 1-1,text,true,,202746,374,1,1,https://www.googletagmanager.com/gtag/js?id=G-9M5SLNVQBN,461,0,284
+1660249494859,798,https://www.banglapuzzle.com/career-9,200,OK,Thread Group 1-1,text,true,,92794,371,1,1,https://www.googletagmanager.com/gtag/js?id=283443580,521,0,253
+1660249494888,534,https://www.banglapuzzle.com/career-10,200,OK,Thread Group 1-1,bin,true,,15455,1077,1,1,https://www.banglapuzzle.com/uploads/settings/logo.png,534,0,0
+1660249495423,316,https://www.banglapuzzle.com/career-11,200,OK,Thread Group 1-1,bin,true,,3158,1085,1,1,https://www.banglapuzzle.com/uploads/settings/country_logo.png,316,0,0
+1660249495429,312,https://www.banglapuzzle.com/career-12,200,OK,Thread Group 1-1,bin,true,,6176,1084,1,1,https://www.banglapuzzle.com/uploads/settings/footer_logo.png,312,0,0
+1660249495540,1197,https://www.banglapuzzle.com/career-13,200,OK,Thread Group 1-1,text,true,,91659,1084,1,1,https://www.banglapuzzle.com/frontend/assets/js/jquery.min.js,521,0,0
+1660249495658,1583,https://www.banglapuzzle.com/career-14,200,OK,Thread Group 1-1,text,true,,62247,1087,1,1,https://www.banglapuzzle.com/frontend/assets/js/bootstrap.min.js,1128,0,605
+1660249495740,784,https://www.banglapuzzle.com/career-15,200,OK,Thread Group 1-1,text,true,,46500,1090,1,1,https://www.banglapuzzle.com/frontend/assets/js/owl.carousel.min.js,485,0,0
+1660249495742,299,https://www.banglapuzzle.com/career-16,200,OK,Thread Group 1-1,text,true,,8506,1081,1,1,https://www.banglapuzzle.com/frontend/assets/js/scripts.js,299,0,0
+1660249495975,1106,https://www.banglapuzzle.com/career-17,200,OK,Thread Group 1-1,text,true,,91768,362,1,1,https://isotope.metafizzy.co/isotope.pkgd.js,741,0,587
+1660249527513,7409,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-1,text,true,,2187710,23050,1,1,https://www.banglapuzzle.com/products,1404,0,844
+1660249527513,1622,https://www.banglapuzzle.com/products-0,200,OK,Thread Group 1-1,text,true,,35777,1060,1,1,https://www.banglapuzzle.com/products,1404,0,844
+1660249529170,792,https://www.banglapuzzle.com/products-1,304,Not Modified,Thread Group 1-1,,true,,253,1130,1,1,https://www.banglapuzzle.com/uploads/settings/favicon.png,0,0,552
+1660249529169,795,https://www.banglapuzzle.com/products-2,304,Not Modified,Thread Group 1-1,,true,,253,1139,1,1,https://www.banglapuzzle.com/frontend/assets/css/bootstrap.min.css,0,0,557
+1660249529169,237,https://www.banglapuzzle.com/products-3,304,Not Modified,Thread Group 1-1,,true,,253,1142,1,1,https://www.banglapuzzle.com/frontend/assets/css/font-awesome.min.css,0,0,0
+1660249529169,786,https://www.banglapuzzle.com/products-4,304,Not Modified,Thread Group 1-1,,true,,253,1142,1,1,https://www.banglapuzzle.com/frontend/assets/css/owl.carousel.min.css,0,0,549
+1660249529170,798,https://www.banglapuzzle.com/products-5,304,Not Modified,Thread Group 1-1,,true,,253,1147,1,1,https://www.banglapuzzle.com/frontend/assets/css/owl.theme.default.min.css,0,0,558
+1660249529169,101,https://www.banglapuzzle.com/products-6,200,OK,Thread Group 1-1,text,true,,15541,496,1,1,https://fonts.googleapis.com/css2?family=Barlow:wght@100;300;400;600;700;800&family=Nunito:wght@200;300;400;700;800&display=swap,90,0,0
+1660249529273,757,https://www.banglapuzzle.com/products-7,304,Not Modified,Thread Group 1-1,,true,,253,1131,1,1,https://www.banglapuzzle.com/frontend/assets/css/style.css,0,0,522
+1660249529407,211,https://www.banglapuzzle.com/products-8,200,OK,Thread Group 1-1,text,true,,202746,374,1,1,https://www.googletagmanager.com/gtag/js?id=G-9M5SLNVQBN,135,0,0
+1660249529619,68,https://www.banglapuzzle.com/products-9,304,Not Modified,Thread Group 1-1,text,true,,712,421,1,1,https://www.googletagmanager.com/gtag/js?id=283443580,0,0,0
+1660249529688,244,https://www.banglapuzzle.com/products-10,304,Not Modified,Thread Group 1-1,,true,,253,1127,1,1,https://www.banglapuzzle.com/uploads/settings/logo.png,0,0,0
+1660249529933,236,https://www.banglapuzzle.com/products-11,304,Not Modified,Thread Group 1-1,,true,,253,1135,1,1,https://www.banglapuzzle.com/uploads/settings/country_logo.png,0,0,0
+1660249529956,4966,https://www.banglapuzzle.com/products-12,200,OK,Thread Group 1-1,bin,true,,1865592,1098,1,1,https://www.banglapuzzle.com/uploads/settings/products_page_cover_image.png,530,0,0
+1660249529963,548,https://www.banglapuzzle.com/products-13,200,OK,Thread Group 1-1,bin,true,,16030,1104,1,1,https://www.banglapuzzle.com/uploads/news/1655821907Museum%20Contract%20Sign.webp,548,0,0
+1660249529968,254,https://www.banglapuzzle.com/products-14,200,OK,Thread Group 1-1,bin,true,,11470,1097,1,1,https://www.banglapuzzle.com/uploads/news/1655825022DSA%20Main%20Page.webp,253,0,0
+1660249529972,584,https://www.banglapuzzle.com/products-15,200,OK,Thread Group 1-1,bin,true,,18330,1115,1,1,https://www.banglapuzzle.com/uploads/news/1655886280DGFP%20Cover%20Picture%20for%20News.webp,584,0,0
+1660249530031,1502,https://www.banglapuzzle.com/products-16,200,OK,Thread Group 1-1,bin,true,,17998,1099,1,1,https://www.banglapuzzle.com/uploads/news/1655884398Chattogram%20Office.webp,1501,0,0
+1660249530170,315,https://www.banglapuzzle.com/products-17,304,Not Modified,Thread Group 1-1,,true,,253,1134,1,1,https://www.banglapuzzle.com/uploads/settings/footer_logo.png,0,0,0
+1660249530223,468,https://www.banglapuzzle.com/products-18,304,Not Modified,Thread Group 1-1,,true,,253,1134,1,1,https://www.banglapuzzle.com/frontend/assets/js/jquery.min.js,0,0,0
+1660249530486,1075,https://www.banglapuzzle.com/products-19,304,Not Modified,Thread Group 1-1,,true,,253,1137,1,1,https://www.banglapuzzle.com/frontend/assets/js/bootstrap.min.js,0,0,0
+1660249530512,1059,https://www.banglapuzzle.com/products-20,304,Not Modified,Thread Group 1-1,,true,,253,1140,1,1,https://www.banglapuzzle.com/frontend/assets/js/owl.carousel.min.js,0,0,0
+1660249530557,1049,https://www.banglapuzzle.com/products-21,304,Not Modified,Thread Group 1-1,,true,,253,1131,1,1,https://www.banglapuzzle.com/frontend/assets/js/scripts.js,0,0,0
+1660249530692,1215,https://www.banglapuzzle.com/products-22,304,Not Modified,Thread Group 1-1,,true,,225,417,1,1,https://isotope.metafizzy.co/isotope.pkgd.js,0,0,1124
+1660249565497,10464,https://www.banglapuzzle.com/about,200,OK,Thread Group 1-1,text,true,,13512101,44245,1,1,https://www.banglapuzzle.com/about,1115,0,563
+1660249565497,1345,https://www.banglapuzzle.com/about-0,200,OK,Thread Group 1-1,text,true,,56236,1057,1,1,https://www.banglapuzzle.com/about,1115,0,563
+1660249566870,361,https://www.banglapuzzle.com/about-1,200,OK,Thread Group 1-1,bin,true,,1274,1097,1,1,https://www.banglapuzzle.com/uploads/settings/favicon.png,361,0,0
+1660249566872,1898,https://www.banglapuzzle.com/about-2,200,OK,Thread Group 1-1,text,true,,156196,1106,1,1,https://www.banglapuzzle.com/frontend/assets/css/bootstrap.min.css,1199,0,721
+1660249566870,1581,https://www.banglapuzzle.com/about-3,200,OK,Thread Group 1-1,text,true,,31350,1109,1,1,https://www.banglapuzzle.com/frontend/assets/css/font-awesome.min.css,1381,0,740
+1660249566870,1683,https://www.banglapuzzle.com/about-4,200,OK,Thread Group 1-1,text,true,,3700,1109,1,1,https://www.banglapuzzle.com/frontend/assets/css/owl.carousel.min.css,1682,0,741
+1660249566870,871,https://www.banglapuzzle.com/about-5,200,OK,Thread Group 1-1,text,true,,1362,1114,1,1,https://www.banglapuzzle.com/frontend/assets/css/owl.theme.default.min.css,871,0,544
+1660249566872,651,https://www.banglapuzzle.com/about-6,200,OK,Thread Group 1-1,text,true,,15541,496,1,1,https://fonts.googleapis.com/css2?family=Barlow:wght@100;300;400;600;700;800&family=Nunito:wght@200;300;400;700;800&display=swap,552,0,449
+1660249567257,2178,https://www.banglapuzzle.com/about-7,200,OK,Thread Group 1-1,text,true,,115199,2650,1,1,https://www.banglapuzzle.com/frontend/assets/css/style.css,281,0,0
+1660249567257,723,https://www.banglapuzzle.com/about-0,200,OK,,text,true,,82676,1098,0,0,https://www.banglapuzzle.com/frontend/assets/css/style.css,281,0,0
+1660249567983,189,https://www.banglapuzzle.com/about-1,304,Not Modified,ResDownload-Thread-6,,true,,1173,443,0,0,https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css,0,0,151
+1660249567984,1451,https://www.banglapuzzle.com/about-2,200,OK,ResDownload-Thread-6,text,true,,31350,1109,0,0,https://www.banglapuzzle.com/frontend/assets/css/font-awesome.min.css,1209,0,623
+1660249567526,604,https://www.banglapuzzle.com/about-8,200,OK,Thread Group 1-1,text,true,,202746,374,1,1,https://www.googletagmanager.com/gtag/js?id=G-9M5SLNVQBN,492,0,386
+1660249567744,417,https://www.banglapuzzle.com/about-9,200,OK,Thread Group 1-1,text,true,,12152,396,1,1,"https://fonts.googleapis.com/css?family=Montserrat:200,300,400,500,600,700,800",408,0,336
+1660249568130,251,https://www.banglapuzzle.com/about-10,200,OK,Thread Group 1-1,text,true,,11802,393,1,1,"https://fonts.googleapis.com/css?family=Raleway:200,300,400,500,600,700,800",246,0,122
+1660249568167,111,https://www.banglapuzzle.com/about-11,200,OK,Thread Group 1-1,text,true,,15854,472,1,1,"https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,300;1,400;1,500;1,600;1,700;1,800&display=swap",103,0,0
+1660249568309,80,https://www.banglapuzzle.com/about-12,304,Not Modified,Thread Group 1-1,text,true,,712,421,1,1,https://www.googletagmanager.com/gtag/js?id=283443580,0,0,0
+1660249568390,277,https://www.banglapuzzle.com/about-13,200,OK,Thread Group 1-1,bin,true,,15455,1094,1,1,https://www.banglapuzzle.com/uploads/settings/logo.png,277,0,0
+1660249568406,256,https://www.banglapuzzle.com/about-14,200,OK,Thread Group 1-1,bin,true,,3158,1102,1,1,https://www.banglapuzzle.com/uploads/settings/country_logo.png,256,0,0
+1660249568454,2485,https://www.banglapuzzle.com/about-15,200,OK,Thread Group 1-1,text,true,,2808767,2154,1,1,https://www.youtube.com/embed/TSWDB9LM-mk,474,0,377
+1660249568454,545,https://www.banglapuzzle.com/about-0,200,OK,,text,true,,66470,359,0,0,https://www.youtube.com/embed/TSWDB9LM-mk,474,0,377
+1660249569017,1318,https://www.banglapuzzle.com/about-1,200,OK,ResDownload-Thread-5,text,true,,349365,431,0,0,https://www.youtube.com/s/player/324f67b9/www-player.css,272,0,230
+1660249569018,595,https://www.banglapuzzle.com/about-2,200,OK,ResDownload-Thread-5,text,true,,315350,460,0,0,https://www.youtube.com/s/player/324f67b9/www-embed-player.vflset/www-embed-player.js,272,0,235
+1660249569019,1920,https://www.banglapuzzle.com/about-3,200,OK,ResDownload-Thread-5,text,true,,2067184,448,0,0,https://www.youtube.com/s/player/324f67b9/player_ias.vflset/bn_BD/base.js,270,0,228
+1660249569018,278,https://www.banglapuzzle.com/about-4,200,OK,ResDownload-Thread-5,text,true,,10398,456,0,0,https://www.youtube.com/s/player/324f67b9/fetch-polyfill.vflset/fetch-polyfill.js,271,0,235
+1660249568554,247,https://www.banglapuzzle.com/about-16,200,OK,Thread Group 1-1,bin,true,,12303,1126,1,1,https://www.banglapuzzle.com/uploads/management/163013343866UAPERgub5LgmqkHuWXYfiS8oumPQkccupEEjl1.jpeg,247,0,0
+1660249568663,1211,https://www.banglapuzzle.com/about-17,200,OK,Thread Group 1-1,bin,true,,91377,1125,1,1,https://www.banglapuzzle.com/uploads/management/1629959348gNJLbCkC90uBx8SMKRY4HBHwLEu9eDTC0LnUbhDm.png,511,0,0
+1660249568668,1007,https://www.banglapuzzle.com/about-18,200,OK,Thread Group 1-1,bin,true,,133481,1100,1,1,https://www.banglapuzzle.com/uploads/management/1631432864Reshma%20Khanum.png,281,0,0
+1660249568773,254,https://www.banglapuzzle.com/about-19,200,OK,Thread Group 1-1,bin,true,,53244,1100,1,1,https://www.banglapuzzle.com/uploads/management/1634211709Rezaul%20Karim.jpeg,247,0,0
+1660249568802,1075,https://www.banglapuzzle.com/about-20,200,OK,Thread Group 1-1,bin,true,,115649,1135,1,1,https://www.banglapuzzle.com/uploads/management/1634211638WhatsApp%20Image%202021-10-14%20at%205.03.54%20PM.jpeg,502,0,0
+1660249569027,572,https://www.banglapuzzle.com/about-21,200,OK,Thread Group 1-1,bin,true,,120965,1135,1,1,https://www.banglapuzzle.com/uploads/management/1634211270WhatsApp%20Image%202021-10-14%20at%205.00.43%20PM.jpeg,243,0,0
+1660249569436,1471,https://www.banglapuzzle.com/about-22,200,OK,Thread Group 1-1,bin,true,,197310,1135,1,1,https://www.banglapuzzle.com/uploads/management/1634211546WhatsApp%20Image%202021-10-14%20at%205.34.36%20PM.jpeg,527,0,0
+1660249569600,1030,https://www.banglapuzzle.com/about-23,200,OK,Thread Group 1-1,bin,true,,373324,1135,1,1,https://www.banglapuzzle.com/uploads/management/1634211367WhatsApp%20Image%202021-10-14%20at%205.12.26%20PM.jpeg,284,0,0
+1660249569675,2163,https://www.banglapuzzle.com/about-24,200,OK,Thread Group 1-1,bin,true,,618088,1099,1,1,https://www.banglapuzzle.com/uploads/management/1653893341IMG_1313%20(2).JPG,301,0,0
+1660249569875,1039,https://www.banglapuzzle.com/about-25,200,OK,Thread Group 1-1,bin,true,,179550,1135,1,1,https://www.banglapuzzle.com/uploads/management/1632723874WhatsApp%20Image%202021-09-26%20at%209.53.57%20AM.jpeg,369,0,0
+1660249569877,776,https://www.banglapuzzle.com/about-26,200,OK,Thread Group 1-1,bin,true,,111689,1101,1,1,https://www.banglapuzzle.com/uploads/management/1650691143Zunayed%20Hassan.jpg,380,0,0
+1660249570631,1146,https://www.banglapuzzle.com/about-27,200,OK,Thread Group 1-1,bin,true,,616269,1089,1,1,https://www.banglapuzzle.com/uploads/management/1634628141jany.jpg,310,0,0
+1660249570653,3720,https://www.banglapuzzle.com/about-28,200,OK,Thread Group 1-1,bin,true,,5136838,1104,1,1,https://www.banglapuzzle.com/uploads/management/1639021061IMG_20211208_004433.jpg,302,0,0
+1660249570907,754,https://www.banglapuzzle.com/about-29,200,OK,Thread Group 1-1,bin,true,,128687,1100,1,1,https://www.banglapuzzle.com/uploads/management/1653286565Chironjit%20Roy.jpg,441,0,0
+1660249570915,864,https://www.banglapuzzle.com/about-30,200,OK,Thread Group 1-1,bin,true,,46070,1090,1,1,https://www.banglapuzzle.com/uploads/management/1643523331Ruman.png,837,0,0
+1660249570939,5022,https://www.banglapuzzle.com/about-31,200,OK,Thread Group 1-1,bin,true,,1363960,1104,1,1,https://www.banglapuzzle.com/uploads/management/1648018462Md%20Anikul%20Islam.jpg,2012,0,1531
+1660249571658,527,https://www.banglapuzzle.com/about-32,200,OK,Thread Group 1-1,bin,true,,166592,1089,1,1,https://www.banglapuzzle.com/uploads/management/1648018585ASAD.jpg,242,0,0
+1660249571773,304,https://www.banglapuzzle.com/about-33,200,OK,Thread Group 1-1,bin,true,,122253,1083,1,1,https://www.banglapuzzle.com/uploads/about/1630241635a2i.jpg,249,0,0
+1660249571775,468,https://www.banglapuzzle.com/about-34,200,OK,Thread Group 1-1,bin,true,,42067,1086,1,1,https://www.banglapuzzle.com/uploads/about/1630241635growth.jpg,278,0,0
+1660249571834,498,https://www.banglapuzzle.com/about-35,200,OK,Thread Group 1-1,bin,true,,215568,1102,1,1,https://www.banglapuzzle.com/uploads/about/1630241635Digital-transformation.jpg,273,0,0
+1660249572077,251,https://www.banglapuzzle.com/about-36,200,OK,Thread Group 1-1,bin,true,,6176,1101,1,1,https://www.banglapuzzle.com/uploads/settings/footer_logo.png,251,0,0
+1660249572186,265,https://www.banglapuzzle.com/about-37,200,OK,Thread Group 1-1,text,true,,91659,1101,1,1,https://www.banglapuzzle.com/frontend/assets/js/jquery.min.js,247,0,0
+1660249572243,562,https://www.banglapuzzle.com/about-38,200,OK,Thread Group 1-1,text,true,,62247,1104,1,1,https://www.banglapuzzle.com/frontend/assets/js/bootstrap.min.js,297,0,0
+1660249572329,311,https://www.banglapuzzle.com/about-39,200,OK,Thread Group 1-1,text,true,,46500,1107,1,1,https://www.banglapuzzle.com/frontend/assets/js/owl.carousel.min.js,305,0,0
+1660249572333,308,https://www.banglapuzzle.com/about-40,200,OK,Thread Group 1-1,text,true,,8506,1098,1,1,https://www.banglapuzzle.com/frontend/assets/js/scripts.js,308,0,0
+1660249572451,371,https://www.banglapuzzle.com/about-41,304,Not Modified,Thread Group 1-1,,true,,225,417,1,1,https://isotope.metafizzy.co/isotope.pkgd.js,0,0,276
+1660249601293,2314,https://www.banglapuzzle.com/career,200,OK,Thread Group 1-1,text,true,,247153,17535,1,1,https://www.banglapuzzle.com/career,1050,0,495
+1660249601293,1051,https://www.banglapuzzle.com/career-0,200,OK,Thread Group 1-1,text,true,,24640,1058,1,1,https://www.banglapuzzle.com/career,1050,0,495
+1660249602350,240,https://www.banglapuzzle.com/career-1,304,Not Modified,Thread Group 1-1,,true,,253,1130,1,1,https://www.banglapuzzle.com/uploads/settings/favicon.png,0,0,0
+1660249602350,733,https://www.banglapuzzle.com/career-2,304,Not Modified,Thread Group 1-1,,true,,253,1139,1,1,https://www.banglapuzzle.com/frontend/assets/css/bootstrap.min.css,0,0,496
+1660249602351,739,https://www.banglapuzzle.com/career-3,304,Not Modified,Thread Group 1-1,,true,,253,1142,1,1,https://www.banglapuzzle.com/frontend/assets/css/font-awesome.min.css,0,0,504
+1660249602350,731,https://www.banglapuzzle.com/career-4,304,Not Modified,Thread Group 1-1,,true,,253,1142,1,1,https://www.banglapuzzle.com/frontend/assets/css/owl.carousel.min.css,0,0,493
+1660249602350,764,https://www.banglapuzzle.com/career-5,304,Not Modified,Thread Group 1-1,,true,,253,1147,1,1,https://www.banglapuzzle.com/frontend/assets/css/owl.theme.default.min.css,0,0,508
+1660249602350,98,https://www.banglapuzzle.com/career-6,200,OK,Thread Group 1-1,text,true,,15541,496,1,1,https://fonts.googleapis.com/css2?family=Barlow:wght@100;300;400;600;700;800&family=Nunito:wght@200;300;400;700;800&display=swap,83,0,0
+1660249602450,740,https://www.banglapuzzle.com/career-7,304,Not Modified,Thread Group 1-1,,true,,253,1131,1,1,https://www.banglapuzzle.com/frontend/assets/css/style.css,0,0,506
+1660249602591,138,https://www.banglapuzzle.com/career-8,200,OK,Thread Group 1-1,text,true,,202746,374,1,1,https://www.googletagmanager.com/gtag/js?id=G-9M5SLNVQBN,79,0,0
+1660249602729,65,https://www.banglapuzzle.com/career-9,304,Not Modified,Thread Group 1-1,text,true,,712,421,1,1,https://www.googletagmanager.com/gtag/js?id=283443580,0,0,0
+1660249602794,234,https://www.banglapuzzle.com/career-10,304,Not Modified,Thread Group 1-1,,true,,253,1127,1,1,https://www.banglapuzzle.com/uploads/settings/logo.png,0,0,0
+1660249603028,233,https://www.banglapuzzle.com/career-11,304,Not Modified,Thread Group 1-1,,true,,253,1135,1,1,https://www.banglapuzzle.com/uploads/settings/country_logo.png,0,0,0
+1660249603082,244,https://www.banglapuzzle.com/career-12,304,Not Modified,Thread Group 1-1,,true,,253,1134,1,1,https://www.banglapuzzle.com/uploads/settings/footer_logo.png,0,0,0
+1660249603083,247,https://www.banglapuzzle.com/career-13,304,Not Modified,Thread Group 1-1,,true,,253,1134,1,1,https://www.banglapuzzle.com/frontend/assets/js/jquery.min.js,0,0,0
+1660249603090,239,https://www.banglapuzzle.com/career-14,304,Not Modified,Thread Group 1-1,,true,,253,1137,1,1,https://www.banglapuzzle.com/frontend/assets/js/bootstrap.min.js,0,0,0
+1660249603114,235,https://www.banglapuzzle.com/career-15,304,Not Modified,Thread Group 1-1,,true,,253,1140,1,1,https://www.banglapuzzle.com/frontend/assets/js/owl.carousel.min.js,0,0,0
+1660249603190,234,https://www.banglapuzzle.com/career-16,304,Not Modified,Thread Group 1-1,,true,,253,1131,1,1,https://www.banglapuzzle.com/frontend/assets/js/scripts.js,0,0,0
+1660249603262,345,https://www.banglapuzzle.com/career-17,304,Not Modified,Thread Group 1-1,,true,,225,417,1,1,https://isotope.metafizzy.co/isotope.pkgd.js,0,0,251
+1660249603608,2582,HTTP Request,200,OK,Thread Group 1-1,text,true,,984084,21016,1,1,https://www.banglapuzzle.com/contact,545,0,0
+1660249603608,773,HTTP Request-0,200,OK,Thread Group 1-1,text,true,,35734,966,1,1,https://www.banglapuzzle.com/contact,545,0,0
+1660249604391,246,HTTP Request-1,200,OK,Thread Group 1-1,bin,true,,1274,1004,1,1,https://www.banglapuzzle.com/uploads/settings/favicon.png,246,0,0
+1660249604392,1387,HTTP Request-2,200,OK,Thread Group 1-1,text,true,,156196,1013,1,1,https://www.banglapuzzle.com/frontend/assets/css/bootstrap.min.css,472,0,0
+1660249604391,712,HTTP Request-3,200,OK,Thread Group 1-1,text,true,,31350,1016,1,1,https://www.banglapuzzle.com/frontend/assets/css/font-awesome.min.css,476,0,0
+1660249604392,246,HTTP Request-4,200,OK,Thread Group 1-1,text,true,,3700,1016,1,1,https://www.banglapuzzle.com/frontend/assets/css/owl.carousel.min.css,245,0,0
+1660249604391,238,HTTP Request-5,200,OK,Thread Group 1-1,text,true,,1362,1021,1,1,https://www.banglapuzzle.com/frontend/assets/css/owl.theme.default.min.css,238,0,0
+1660249604391,93,HTTP Request-6,200,OK,Thread Group 1-1,text,true,,15541,403,1,1,https://fonts.googleapis.com/css2?family=Barlow:wght@100;300;400;600;700;800&family=Nunito:wght@200;300;400;700;800&display=swap,79,0,0
+1660249604485,1177,HTTP Request-7,200,OK,Thread Group 1-1,text,true,,84092,2404,1,1,https://www.banglapuzzle.com/frontend/assets/css/style.css,471,0,0
+1660249604485,935,HTTP Request-0,200,OK,,text,true,,82676,1005,0,0,https://www.banglapuzzle.com/frontend/assets/css/style.css,471,0,0
+1660249605424,115,HTTP Request-1,304,Not Modified,ResDownload-Thread-9,,true,,1163,350,0,0,https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css,0,0,98
+1660249605424,238,HTTP Request-2,304,Not Modified,ResDownload-Thread-9,,true,,253,1049,0,0,https://www.banglapuzzle.com/frontend/assets/css/font-awesome.min.css,0,0,0
+1660249604630,122,HTTP Request-8,200,OK,Thread Group 1-1,text,true,,202746,281,1,1,https://www.googletagmanager.com/gtag/js?id=G-9M5SLNVQBN,73,0,0
+1660249604637,252,HTTP Request-9,304,Not Modified,Thread Group 1-1,text,true,,712,328,1,1,https://www.googletagmanager.com/gtag/js?id=283443580,0,0,184
+1660249604638,473,HTTP Request-10,200,OK,Thread Group 1-1,bin,true,,15455,1001,1,1,https://www.banglapuzzle.com/uploads/settings/logo.png,473,0,0
+1660249604753,238,HTTP Request-11,200,OK,Thread Group 1-1,bin,true,,3158,1009,1,1,https://www.banglapuzzle.com/uploads/settings/country_logo.png,238,0,0
+1660249604889,243,HTTP Request-12,200,OK,Thread Group 1-1,bin,true,,11472,1001,1,1,https://www.banglapuzzle.com/uploads/1634199815BP%20Logo%20-%20Copy.png,243,0,0
+1660249604992,244,HTTP Request-13,200,OK,Thread Group 1-1,bin,true,,11182,1012,1,1,https://www.banglapuzzle.com/uploads/1634199832BP_Logo_-_Copy-removebg-preview.png,243,0,0
+1660249605105,243,HTTP Request-14,200,OK,Thread Group 1-1,bin,true,,11472,1001,1,1,https://www.banglapuzzle.com/uploads/1634199855BP%20Logo%20-%20Copy.png,243,0,0
+1660249605114,800,HTTP Request-15,200,OK,Thread Group 1-1,text,true,,181838,905,1,1,https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.1905470789497!2d90.36428261423183!3d23.776228084576605!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c1d10a6e920b%3A0x3958632155c4a1c1!2sBangla%20Puzzle%20Limited%2C%20Shyamoly%20Branch!5e0!3m2!1sen!2sbd!4v1626236130587!5m2!1sen!2sbd,445,0,214
+1660249605114,446,HTTP Request-0,200,OK,,text,true,,4497,527,0,0,https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.1905470789497!2d90.36428261423183!3d23.776228084576605!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c1d10a6e920b%3A0x3958632155c4a1c1!2sBangla%20Puzzle%20Limited%2C%20Shyamoly%20Branch!5e0!3m2!1sen!2sbd!4v1626236130587!5m2!1sen!2sbd,445,0,214
+1660249605561,353,HTTP Request-1,200,OK,ResDownload-Thread-3,text,true,,177341,378,0,0,"https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en&region=bd&callback=onApiLoad",260,0,214
+1660249605134,234,HTTP Request-16,200,OK,Thread Group 1-1,bin,true,,6176,1008,1,1,https://www.banglapuzzle.com/uploads/settings/footer_logo.png,234,0,0
+1660249605237,953,HTTP Request-17,200,OK,Thread Group 1-1,text,true,,91659,1008,1,1,https://www.banglapuzzle.com/frontend/assets/js/jquery.min.js,472,0,0
+1660249605349,706,HTTP Request-18,200,OK,Thread Group 1-1,text,true,,62247,1011,1,1,https://www.banglapuzzle.com/frontend/assets/js/bootstrap.min.js,238,0,0
+1660249605369,693,HTTP Request-19,200,OK,Thread Group 1-1,text,true,,46500,1014,1,1,https://www.banglapuzzle.com/frontend/assets/js/owl.carousel.min.js,470,0,0
+1660249605664,237,HTTP Request-20,200,OK,Thread Group 1-1,text,true,,8506,1005,1,1,https://www.banglapuzzle.com/frontend/assets/js/scripts.js,237,0,0
+1660249605782,95,HTTP Request-21,304,Not Modified,Thread Group 1-1,,true,,225,324,1,1,https://isotope.metafizzy.co/isotope.pkgd.js,0,0,0
+1660249605878,106,HTTP Request-22,200,OK,Thread Group 1-1,text,true,,1487,265,1,1,https://www.google.com/recaptcha/api.js?,106,0,0
+1660249491496,28434,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-1,,true,,18057260,123352,1,1,null,6329,86255,3298
